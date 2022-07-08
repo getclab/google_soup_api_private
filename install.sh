@@ -1,4 +1,3 @@
-#!/bin/bash
 base_python_interpreter=""
 project_domain=""
 project_path=`pwd`
